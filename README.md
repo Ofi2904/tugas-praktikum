@@ -1,1 +1,2 @@
-# tugas-praktikum-1-
+# web-project-c
+Repository for web project c
